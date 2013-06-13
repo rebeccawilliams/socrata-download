@@ -5,7 +5,7 @@ to S3.
 
 ## How to run (multiple portals)
 
-Set the parameters.
+Set the parameters S3 bucket.
 
     SOCRATA_URLS=( data.cityofnewyork.us 
     SOCRATA_S3_BUCKET=socrata.appgen.me
@@ -14,33 +14,8 @@ Then run the main script.
 
     ./run.sh
 
-The result will be the following file structure, both locally and in the bucket.
-
-    data.cityofnewyork.us/
-      searches/
-        1
-        2
-        ...
-      views/
-        abcd-efgh
-        ijkl-mnop
-        ...
-      rows/
-        abcd-efgh
-        ijkl-mnop
-    data.sfgov.org/
-      searches/
-        1
-        2
-        ...
-      views/
-        abcd-efgh
-        ijkl-mnop
-        ...
-      rows/
-        abcd-efgh
-        ijkl-mnop
-        ...
+This runs `./portals.py` to get the list of all portals from socrata.com.
+Then it runs `./run_all.sh` (See below.) for each of the portals.
 
 The different portals will be accessed in parallel, so this should only take as
 long as the largest/slowest portal.
