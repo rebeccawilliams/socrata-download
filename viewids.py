@@ -9,8 +9,12 @@ def get_viewids():
     pages = filter(lambda page: set(page.split('-')[-1]).issubset(set('0123456789')), os.listdir(DIR))
     viewids = set()
     for page in pages:
-        html = lxml.html.parse(os.path.join(DIR, page))
-        viewids = viewids.union(parse(html))
+        path = os.path.join(DIR, page)
+        if os.stat(path).st_size > 0:
+            html = lxml.html.parse(path)
+            viewids = viewids.union(parse(html))
+        else:
+            os.remove(path)
     return viewids
 
 def parse(html):
