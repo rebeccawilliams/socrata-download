@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head >
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Customer Spotlight</title>
+<meta name="robots" content="noodp, noydir" />
+<meta name="description" content="What Does Open Data Mean to the World&#8217;s Most Innovative Organizations?" />
+<link rel="stylesheet" href="http://www.socrata.com/wp-content/themes/socrata/custom/layout.css" type="text/css" media="screen, projection" />
+<!--[if lte IE 8]><link rel="stylesheet" href="http://www.socrata.com/wp-content/themes/thesis_185/lib/css/ie.css" type="text/css" media="screen, projection" /><![endif]-->
+<link rel="stylesheet" href="http://www.socrata.com/wp-content/themes/socrata/custom/custom.css" type="text/css" media="screen, projection" />
+<link rel="shortcut icon" href="http://www.socrata.com/wp-content/uploads/2012/06/favicon.ico" />
+<link rel="canonical" href="http://www.socrata.com/customer-spotlight/" />
+<link rel="alternate" type="application/rss+xml" title="Socrata, Inc. RSS Feed" href="http://www.socrata.com/feed/" />
+<link rel="pingback" href="http://www.socrata.com/xmlrpc.php" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.socrata.com/xmlrpc.php?rsd" />
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript" src="http://use.typekit.com/kzd3euw.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<script type="text/javascript">
+var TB_pluginPath = 'http://www.socrata.com/wp-content/plugins/tweet-blender';
+var TB_config = {
+'widget_show_photos':true,
+'widget_show_source':true,
+'widget_show_header':true,
+'general_link_screen_names':true,
+'general_link_hash_tags':true,
+'general_link_urls':true,
+'widget_check_sources':true,
+'widget_show_user':true
+}</script>
+<link rel='stylesheet' id='wpBannerizeStyleDefault.css-css'  href='http://www.socrata.com/wp-content/plugins/wp-bannerize/css/wpBannerizeStyleDefault.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nivoslider-css'  href='http://www.socrata.com/wp-content/plugins/nivo-slider/scripts/nivo-slider/nivo-slider.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='css3_grid_font_yanone-css'  href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&#038;ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='css3_grid_table1_style-css'  href='http://www.socrata.com/wp-content/plugins/css3_web_pricing_tables_grids/table1/css3_grid_style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='css3_grid_table2_style-css'  href='http://www.socrata.com/wp-content/plugins/css3_web_pricing_tables_grids/table2/css3_grid_style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://www.socrata.com/wp-content/themes/socrata/custom/webfonts/ss-pika.css?ver=20120208' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.socrata.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-foobar-2-3-css'  href='http://www.socrata.com/wp-content/plugins/foobar/css/jquery.foobar.2.3.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='foobar-css-dynamic-css'  href='http://www.socrata.com/?foobar-css-dynamic=css&#038;ver=3.5.1&#038;post_id=3119' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.socrata.com/wp-content/plugins/foobar/js/jquery.foobar.2.3.min.js?ver=2.3.3'></script>
+<script type='text/javascript' src='http://www.socrata.com/?foobar-js-dynamic=js&#038;ver=3.5.1&#038;post_id=3119'></script>
+
+
+<!-- Facebook Like Thumbnail -->
+<meta property="og:image" content="/wp-content/uploads/2011/06/spotlight-promo.jpg" />
+<!-- End Facebook Like Thumbnail -->
+
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link type="text/css" media="screen" rel="stylesheet" href="http://www.socrata.com/wp-content/plugins/tweet-blender/css/tweets.css" />
+</head>
+<body class="custom customer-spotlight">
+	<div id="hd">
+		<div class="container">
+			<h1><a href="http://www.socrata.com" class="logo ir">Socrata - The Social Data Cloud Company</a></h1>
+			<ul class="company-links">
+				<li><a href="tel:2063408008" class="phone">(206) 340-8008</a></li>
+				<li><a href="/contact-us">Contact Us</a></li>
+				<li><a href="http://support.socrata.com/home">Support</a></li>
+				<li><a href="/blog">Blog</a></li>
+				<li><a href="https://opendata.socrata.com/">OpenData</a></li>
+			</ul>
+			<div class="nav-bar clearfix">
+				<ul><li id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-8041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8041"><a href="http://www.socrata.com/">Home</a></li>
+<li id="menu-item-7977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7977"><a href="http://www.socrata.com/solutions/">Solutions</a>
+<ul class="sub-menu">
+	<li id="menu-item-14807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14807"><a href="http://www.socrata.com/govstat/">Socrata GovStat</a></li>
+	<li id="menu-item-10430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10430"><a href="http://www.socrata.com/api-foundry/">Socrata API Foundry</a></li>
+	<li id="menu-item-8027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8027"><a href="http://www.socrata.com/mondara/">Mondara &#8211; Online Maps for the Other 99%</a></li>
+	<li id="menu-item-8510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8510"><a href="http://www.socrata.com/solutions/">Socrata For Government</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8002"><a href="http://www.socrata.com/solutions/maximize-the-utility-of-government-data-assets/">Maximize the utility of your data assets</a></li>
+		<li id="menu-item-8003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8003"><a href="http://www.socrata.com/solutions/easily-publish-and-manage-public-data/">Easily Publish and Manage Public Data</a></li>
+		<li id="menu-item-8005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8005"><a href="http://www.socrata.com/solutions/reduce-application-development-costs/">Reduce application development costs</a></li>
+	</ul>
+</li>
+	<li id="menu-item-8006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8006"><a href="http://www.socrata.com/solutions/socrata-for-developers/">Socrata for developers</a></li>
+	<li id="menu-item-7998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7998"><a href="http://www.socrata.com/solutions/solution-tour/">Solution Tour</a></li>
+	<li id="menu-item-7999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7999"><a href="http://www.socrata.com/solutions/download-whitepaper/">Download Product Info</a></li>
+	<li id="menu-item-7983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7983"><a href="http://www.socrata.com/solutions/socrata-plans-and-pricing/">Socrata Plans &#038; Pricing</a></li>
+</ul>
+</li>
+<li id="menu-item-8018" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3119 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-8018"><a href="http://www.socrata.com/customer-spotlight/">Customer Spotlight</a>
+<ul class="sub-menu">
+	<li id="menu-item-8019" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3119 current_page_item menu-item-8019"><a href="http://www.socrata.com/customer-spotlight/">Featured Customers</a></li>
+	<li id="menu-item-9394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9394"><a href="http://www.socrata.com/customer-spotlight/international/">Featured International Customers</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8021"><a href="http://www.socrata.com/customer-spotlight/kenya/">Kenya</a></li>
+		<li id="menu-item-8024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8024"><a href="http://www.socrata.com/customer-spotlight/united-nations-development-programme/">United Nations Development Programme</a></li>
+		<li id="menu-item-11823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11823"><a href="http://www.socrata.com/customer-spotlight/australian-capital-territory-act-government/">Australian Capital Territory (ACT) Government</a></li>
+		<li id="menu-item-8026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8026"><a href="http://www.socrata.com/customer-spotlight/city-of-edmonton/">City of Edmonton</a></li>
+		<li id="menu-item-9327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9327"><a href="http://www.socrata.com/customer-spotlight/region-of-lombardia/">Region of Lombardia</a></li>
+		<li id="menu-item-11821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11821"><a href="http://www.socrata.com/customer-spotlight/world-bank-finances/">World Bank Finances</a></li>
+	</ul>
+</li>
+	<li id="menu-item-9395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9395"><a href="http://www.socrata.com/customer-spotlight/federal-agencies/">Featured Federal Customers</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11824"><a href="http://www.socrata.com/customer-spotlight/consumer-financial-protection-bureau/">Consumer Financial Protection Bureau</a></li>
+		<li id="menu-item-8016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8016"><a href="http://www.socrata.com/customer-spotlight/data-gov/">Data.gov</a></li>
+		<li id="menu-item-9329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9329"><a href="http://www.socrata.com/customer-spotlight/ethics-gov/">Ethics.Gov</a></li>
+		<li id="menu-item-11825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11825"><a href="http://www.socrata.com/customer-spotlight/health-system-measurement-project/">Health System Measurement Project</a></li>
+		<li id="menu-item-8015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8015"><a href="http://www.socrata.com/customer-spotlight/medicare/">Medicare</a></li>
+		<li id="menu-item-8034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8034"><a href="http://www.socrata.com/customer-spotlight/samhsa/">SAMHSA</a></li>
+	</ul>
+</li>
+	<li id="menu-item-9396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9396"><a href="http://www.socrata.com/customer-spotlight/state-government/">Featured State Customers</a>
+	<ul class="sub-menu">
+		<li id="menu-item-9328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9328"><a href="http://www.socrata.com/customer-spotlight/state-of-colorado/">State of Colorado</a></li>
+		<li id="menu-item-9878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9878"><a href="http://www.socrata.com/customer-spotlight/state-of-illinois/">State of Illinois</a></li>
+		<li id="menu-item-11820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11820"><a href="http://www.socrata.com/customer-spotlight/state-of-maryland/">State of Maryland</a></li>
+		<li id="menu-item-9326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9326"><a href="http://www.socrata.com/customer-spotlight/state-of-missouri/">State of Missouri</a></li>
+		<li id="menu-item-8014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8014"><a href="http://www.socrata.com/customer-spotlight/state-of-oklahoma/">State of Oklahoma</a></li>
+		<li id="menu-item-8017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8017"><a href="http://www.socrata.com/customer-spotlight/state-of-oregon/">State of Oregon</a></li>
+		<li id="menu-item-9876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9876"><a href="http://www.socrata.com/customer-spotlight/state-of-washington/">State of Washington</a></li>
+	</ul>
+</li>
+	<li id="menu-item-9397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9397"><a href="http://www.socrata.com/customer-spotlight/local-government/">Featured Local Customers</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11827"><a href="http://www.socrata.com/customer-spotlight/alameda-county-data-sharing-initiative/">Alameda County Data Sharing Initiative</a></li>
+		<li id="menu-item-8033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8033"><a href="http://www.socrata.com/customer-spotlight/city-of-austin/">City of Austin</a></li>
+		<li id="menu-item-8032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8032"><a href="http://www.socrata.com/customer-spotlight/city-of-baltimore/">City of Baltimore</a></li>
+		<li id="menu-item-8013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8013"><a href="http://www.socrata.com/customer-spotlight/city-of-chicago/">City of Chicago</a></li>
+		<li id="menu-item-8025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8025"><a href="http://www.socrata.com/customer-spotlight/cook-county/">Cook County</a></li>
+		<li id="menu-item-8022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8022"><a href="http://www.socrata.com/customer-spotlight/king-county/">King County</a></li>
+		<li id="menu-item-8031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8031"><a href="http://www.socrata.com/customer-spotlight/metrochicagodata-com/">MetroChicagoData.Com</a></li>
+		<li id="menu-item-9877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9877"><a href="http://www.socrata.com/customer-spotlight/montgomery-county/">Montgomery County</a></li>
+		<li id="menu-item-8030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8030"><a href="http://www.socrata.com/customer-spotlight/city-of-new-orleans/">City of New Orleans</a></li>
+		<li id="menu-item-8023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8023"><a href="http://www.socrata.com/customer-spotlight/new-york-city/">New York City</a></li>
+		<li id="menu-item-9875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9875"><a href="http://www.socrata.com/customer-spotlight/new-york-city-comptroller/">New York City Comptroller</a></li>
+		<li id="menu-item-8035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8035"><a href="http://www.socrata.com/customer-spotlight/city-of-san-francisco/">City of San Francisco</a></li>
+		<li id="menu-item-8012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8012"><a href="http://www.socrata.com/customer-spotlight/city-of-seattle/">City of Seattle</a></li>
+		<li id="menu-item-11822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11822"><a href="http://www.socrata.com/customer-spotlight/city-of-somerville-ma/">City of Somerville, Mass.</a></li>
+		<li id="menu-item-11826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11826"><a href="http://www.socrata.com/customer-spotlight/city-of-wellington-florida/">City of Wellington, Florida</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8011"><a title="Resources for Open Data Success" href="http://www.socrata.com/discover/">Discover</a>
+<ul class="sub-menu">
+	<li id="menu-item-8020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8020"><a href="http://www.socrata.com/discover/">Open Data Resources</a></li>
+	<li id="menu-item-14016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14016"><a href="http://www.socrata.com/open-data-field-guide/">Open Data Field Guide</a></li>
+	<li id="menu-item-8008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8008"><a href="http://www.socrata.com/benchmark-study/">Benchmark Study</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8009"><a href="http://www.socrata.com/benchmark-study/">Overview</a></li>
+		<li id="menu-item-7970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7970"><a href="http://benchmarkstudy.socrata.com">Explore Complete Findings</a></li>
+		<li id="menu-item-7978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7978"><a href="http://www.socrata.com/benchmark-study/why-a-benchmark-study/">Why a Benchmark Study?</a></li>
+	</ul>
+</li>
+	<li id="menu-item-8029" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8029"><a href="http://www.socrata.com/open-data-headlines-socrata-splash/">Open Data Headlines @Socrata</a></li>
+	<li id="menu-item-8881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8881"><a href="http://www.socrata.com/discover/video-case-study-chicago-webinar/">Video Case Study: Chicago, IL</a></li>
+	<li id="menu-item-8888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8888"><a href="http://www.socrata.com/video-case-study-oregon-webinar-2/">Video Case Study: State of Oregon</a></li>
+	<li id="menu-item-10119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10119"><a href="http://www.socrata.com/discover/video-case-study-somerville-ma/">Video Case Study: Somerville, MA</a></li>
+</ul>
+</li>
+<li id="menu-item-7976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7976"><a href="http://www.socrata.com/company-info/">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-7995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7995"><a href="http://www.socrata.com/company-info/">About Socrata</a></li>
+	<li id="menu-item-7979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7979"><a href="http://www.socrata.com/careers/">Careers</a></li>
+	<li id="menu-item-12519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12519"><a href="http://www.socrata.com/partners/">Partners</a></li>
+	<li id="menu-item-9612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9612"><a href="http://www.socrata.com/company-info/socrata-team/">Socrata Team</a></li>
+	<li id="menu-item-7982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7982"><a href="http://www.socrata.com/company-info/board-of-directors/">Board of Directors</a></li>
+	<li id="menu-item-7981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7981"><a href="http://www.socrata.com/company-info/investors/">Investors</a></li>
+	<li id="menu-item-11417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11417"><a href="http://www.socrata.com/company-info/leadership/">Leadership</a></li>
+</ul>
+</li>
+<li id="menu-item-8295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8295"><a href="http://www.socrata.com/newsroom/">Newsroom</a>
+<ul class="sub-menu">
+	<li id="menu-item-8296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8296"><a href="http://www.socrata.com/newsroom/">All Socrata News</a></li>
+	<li id="menu-item-8387" class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-8387"><a href="http://www.socrata.com/newsroom/press-releases/">Press Releases</a></li>
+	<li id="menu-item-8440" class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-8440"><a href="http://www.socrata.com/newsroom/socrata-in-the-media/">Socrata In The Media</a></li>
+	<li id="menu-item-7997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7997"><a href="http://www.socrata.com/media-kit/">Media Kit</a></li>
+</ul>
+</li>
+</ul></div></li>
+</ul>
+				<ul class="social-sites">
+					<li><a href="http://www.facebook.com/socrata" target="_blank" class="facebook ir">facebook</a></li>
+					<li><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fsocrata&amp;send=false&amp;layout=button_count&amp;width=200&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe></li>
+					<li><a href="https://twitter.com/socrata" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @socrata</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="container">
+<div id="page">
+	<div id="content_box" class="no_sidebars">
+		<div id="content">
+
+			<div class="post_box top" id="post-3119">
+				<div class="format_text">
+<h1 class="headline">What Does Open Data Mean to the World&#8217;s Most Innovative Organizations?</h1>
+<p><img class="alignnone size-full wp-image-8652" title="" src="/wp-content/uploads/2011/06/spotlight-promo.jpg" alt="" width="970" height="427" /></p>
+<hr />
+<div class="one_fourth">
+<p><a href="/customer-spotlight/city-of-new-orleans/"><img class="alignnone size-full wp-image-8777" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-new-orleans.jpg" alt="" width="213" height="142" /><br /></a><strong>City of New Orleans<br /></strong>data.nola.gov </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/metrochicagodata-com/"><img class="alignnone size-full wp-image-8780" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-metrochicago.jpg" alt="" width="213" height="142" /></a><br />MetroChicagoData.com</strong><br />metrochicagodata.com </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/city-of-baltimore/"><img class="alignnone size-full wp-image-8781" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-baltimore.jpg" alt="" width="213" height="142" /></a><br />City of Baltimore</strong><br />data.baltimorecity.gov </p>
+</div>
+<div class="one_fourth last">
+<p><strong><a href="/customer-spotlight/city-of-austin/"><img class="alignnone size-full wp-image-8782" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-austin.jpg" alt="" width="213" height="142" /></a><br />City of Austin</strong><br />data.austintexas.gov </p>
+</div>
+<div class="clearboth"></div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/samhsa/"><img class="alignnone size-full wp-image-8784" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-samhsa.jpg" alt="" width="213" height="142" /></a><br />SAMHSA</strong><br /> info.samhsa.gov</p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/city-of-san-francisco/"><img class="alignnone size-full wp-image-8785" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-san-francisco.jpg" alt="" width="213" height="142" /></a><br />City of San Francisco</strong><br />data.sfgov.org </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/united-nations-development-programme/"><img class="alignnone size-full wp-image-8786" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-united-nations.jpg" alt="" width="213" height="142" /></a><br />U.N.D.P.</strong><br />data.undp.com </p>
+</div>
+<div class="one_fourth last">
+<p><strong><a href="/customer-spotlight/kenya/"><img class="alignnone size-full wp-image-8788" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-kenya.jpg" alt="" width="213" height="142" /></a><br />Kenya</strong><br />opendata.go.ke </p>
+</div>
+<div class="clearboth"></div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/new-york-city/"><img class="alignnone size-full wp-image-8789" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-new-york.jpg" alt="" width="213" height="142" /></a><br />New York City</strong><br />nyc.gov/data </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/state-of-illinois/"><img class="alignnone size-full wp-image-8790" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-illinois.jpg" alt="" width="213" height="142" /></a><br />State of Illinois</strong><br />data.illinois.gov </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/king-county/"><img class="alignnone size-full wp-image-8791" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-king-county.jpg" alt="" width="213" height="142" /></a><br />King County</strong><br />datakc.org</p>
+</div>
+<div class="one_fourth last">
+<p><strong><a href="/customer-spotlight/cook-county/"><img class="alignnone size-full wp-image-8792" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-cook-county.jpg" alt="" width="213" height="142" /></a><br />Cook County</strong><br />datacatalog.cookcountyil.gov </p>
+</div>
+<div class="clearboth"></div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/city-of-edmonton/"><img class="alignnone size-full wp-image-8793" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/thumb-edmonton.jpg" alt="" width="213" height="142" /></a><br />City of Edmonton</strong><br />data.edmonton.ca </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/data-gov/"><img class="alignnone size-full wp-image-8794" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/datagov-thumb1.jpg" alt="" width="213" height="142" /></a><br />Data.gov</strong><br />explore.data.gov </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/medicare/"><img class="alignnone size-full wp-image-8796" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/medicare-thumb1.jpg" alt="" width="213" height="142" /></a><br />Medicare</strong><br />data.medicare.gov </p>
+</div>
+<div class="one_fourth last">
+<p><strong><a href="/customer-spotlight/state-of-oregon/"><img class="alignnone size-full wp-image-8797" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/oregon-thumb1.jpg" alt="" width="213" height="142" /></a><br />State of Oregon</strong><br />data.oregon.gov </p>
+</div>
+<div class="clearboth"></div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/state-of-oklahoma/"><img class="alignnone size-full wp-image-8798" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/oklahoma-thumb1.jpg" alt="" width="213" height="142" /></a><br />State of Oklahoma</strong><br />data.ok.gov </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/city-of-chicago/"><img class="alignnone size-full wp-image-8799" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/chicago-thumb1.jpg" alt="" width="213" height="142" /></a><br />City of Chicago</strong><br />data.cityofchicago.org </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/city-of-seattle/"><img class="alignnone size-full wp-image-8800" title="" src="http://www.socrata.com.php53-22.ord1-1.websitetestlink.com/wp-content/uploads/2011/06/seattle-thumb1.jpg" alt="" width="213" height="142" /></a><br />City of Seattle</strong><br />data.seattle.gov </p>
+</div>
+<div class="one_fourth last">
+<p><strong><a href="/customer-spotlight/state-of-colorado/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/07/thumb-colorado.jpg" alt="" width="213" height="142" /></a><br />State of Colorado</strong><br />data.colorado.gov </p>
+</div>
+<div class="clearboth"></div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/region-of-lombardia/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/07/thumb-lombardia2.jpg" alt="" width="213" height="142" /></a><br />Region of Lombardia</strong><br />dati.lombardia.it</p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/state-of-missouri/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/07/thumb-missouri.jpg" alt="" width="213" height="142" /></a><br />State of Missouri</strong><br />data.mo.gov </p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/ethics-gov/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/07/thumb-ethics1.jpg" alt="" width="213" height="142" /></a><br />Ethics.gov</strong><br />ethics.gov </p>
+</div>
+<div class="one_fourth last">
+<p><strong><a href="/customer-spotlight/city-of-de-leon/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/07/thumb-de-leon.jpg" alt="" width="213" height="142" /></a><br />City of De Leon</strong><br />deleon.socrata.com </p>
+</div>
+<div class="clearboth"></div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/state-of-washington/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/07/thumb-washington.jpg" alt="" width="213" height="142" /></a><br />State of Washington</strong><br />dati.wa.gov</p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/montgomery-county/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/07/thumb-montgomery.jpg" alt="" width="213" height="142" /></a><br />Montgomery County</strong><br />data.montgomerycountymd.gov</p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/new-york-city-comptroller/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/07/thumb-nyc-comptroller.jpg" alt="" width="213" height="142" /></a><br />NYC Comptroller</strong><br />www.opendatanyc.com</p>
+</div>
+<div class="one_fourth last">
+<p><strong><a href="/customer-spotlight/city-of-wellington-florida/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/11/Wellington-Thumb-213x141.gif" alt="" width="213" height="142" /></a><br />City of Wellington, Florida</strong><br />data.wellingtonfl.gov</p>
+</div>
+<div class="clearboth"></div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/consumer-financial-protection-bureau/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/11/CFPB-Thumb.gif" alt="" width="213" height="142" /></a><br />CFPB</strong><br />consumerfinance.gov/complaintdatabase</p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/australian-capital-territory-act-government/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/11/ACT-Thumb.gif" alt="" width="213" height="142" /></a><br />Australian Capital Territory</strong><br />data.act.gov.au</p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/alameda-county-data-sharing-initiative/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/11/Alameda-Thumb.jpg" alt="" width="213" height="142" /></a><br />Alameda County</strong><br />data.acgov.org</p>
+</div>
+<div class="one_fourth last">
+<p><strong><a href="/customer-spotlight/health-system-measurement-project/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/11/HSMP-Thumb.gif" alt="" width="213" height="142" /></a><br />HSMP</strong><br />healthmeasures.aspe.hhs.gov</p>
+</div>
+<div class="clearboth"></div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/city-of-somerville-ma/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/12/Somerville-Thumb.gif" alt="" width="213" height="142" /></a><br />City of Somerville</strong><br />data.somervillema.gov</p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/lehman-colleges-bronx-information-portal/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/12/Lehman-Thumb.gif" alt="" width="213" height="142" /></a><br />Lehman College</strong><br />bronx.lehman.cuny.edu</p>
+</div>
+<div class="one_fourth">
+<p><strong><a href="/customer-spotlight/state-of-maryland/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/12/Maryland-Thumb.gif" alt="" width="213" height="142" /></a><br />State of Maryland</strong><br />data.maryland.gov</p>
+</div>
+<div class="one_fourth last">
+<p><strong><a href="/customer-spotlight/world-bank-finances/"><img class="alignnone size-full wp-image-8800" title="" src="/wp-content/uploads/2012/12/World-Bank-Thumb.gif" alt="" width="213" height="142" /></a><br />World Bank</strong><br />finances.worldbank.org</p>
+</div>
+<div class="clearboth"></div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+	<div id="footer">
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpBannerizeJavascriptLocalization = {"ajaxURL":"http:\/\/www.socrata.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.socrata.com/wp-content/plugins/wp-bannerize/js/wpBannerizeFrontend.min.js?ver=3.0.62'></script>
+<script type='text/javascript' src='http://www.socrata.com/wp-content/plugins/tweet-blender/js/jquery.jsonp-2.1.4.min.js?ver=3.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TB_labels = {"no_config":"No configuration settings found","twitter_logo":"Twitter Logo","kino":"Development by Kirill Novitchenko","refresh":"Refresh","no_sources":"Twitter sources to blend are not defined","no_global_config":"Cannot retrieve Tweet Blender configuration options","version_msg":"Powered by Tweet Blender plugin v{0} blending {1}","limit_msg":"You reached Twitter API connection limit","no_tweets_msg":"No tweets found for {0}","loading_msg":"Loading tweets...","time_past":"{0} {1} ago","time_future":"in {0} {1}","second":"second","seconds":"seconds","minute":"minute","minutes":"minutes","hour":"hour","hours":"hours","day":"day","days":"days","week":"week","weeks":"weeks","month":"month","months":"months","year":"year","years":"years","check_fail":"Check failed","limit_num":"Max is {0}\/hour","limit_left":"You have {0} left","from":"from","reply":"reply","follow":"follow","limit_reset":"Next reset","view_more":"view more"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.socrata.com/wp-content/plugins/tweet-blender/js/lib.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://www.socrata.com/wp-content/plugins/tweet-blender/js/main.js?ver=3.5.1'></script>
+	</div>
+</div>
+</div>
+<!--[if lte IE 8]>
+<div id="ie_clear"></div>
+<![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9046230-4']);
+  _gaq.push(['_setDomainName', 'socrata.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + document.location.protocol +
+  "//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script>Munchkin.init('851-SII-641');</script>
+<!-- begin olark code -->
+<script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('2374-492-10-7616');/*]]>*/</script><noscript><a href="https://www.olark.com/site/2374-492-10-7616/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript><!-- end olark code -->
+<script type="text/javascript">
+adroll_adv_id = "BASXJGCN7FCI5NFI65M4R7";
+adroll_pix_id = "YVZAENVZKNFATNFDNV7HDD";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<div id="ft" class="clearfix">
+	<div class="container clearfix">
+		<div class="clearfix">
+			<ul><li id="nav_menu-4" class="widget widget_nav_menu"><h3>Solutions</h3><div class="menu-solutions-container"><ul id="menu-solutions" class="menu"><li id="menu-item-7985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7985"><a href="http://www.socrata.com/solutions/">Overview</a></li>
+<li id="menu-item-10431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10431"><a href="http://www.socrata.com/api-foundry/">Socrata API Foundry</a></li>
+<li id="menu-item-11229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11229"><a href="http://www.socrata.com/mondara/">Socrata Mondara</a></li>
+<li id="menu-item-8007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8007"><a href="http://www.socrata.com/solutions/socrata-for-developers/">Socrata for Developers</a></li>
+<li id="menu-item-8001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8001"><a href="http://www.socrata.com/solutions/solution-tour/">Solution Tour</a></li>
+<li id="menu-item-8004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8004"><a href="http://www.socrata.com/solutions/download-whitepaper/">Download Product Info</a></li>
+<li id="menu-item-7986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7986"><a href="http://www.socrata.com/solutions/socrata-plans-and-pricing/">Socrata Plans &#038; Pricing</a></li>
+</ul></div></li>
+<li id="nav_menu-5" class="widget widget_nav_menu"><h3>Discover</h3><div class="menu-discover-container"><ul id="menu-discover" class="menu"><li id="menu-item-8882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8882"><a href="http://www.socrata.com/discover/">Open Data Resources</a></li>
+<li id="menu-item-8010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8010"><a href="http://www.socrata.com/benchmark-study/">Benchmark Study</a></li>
+<li id="menu-item-4815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4815"><a href="http://benchmarkstudy.socrata.com">Explore Complete Findings</a></li>
+<li id="menu-item-8880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8880"><a href="http://www.socrata.com/open-data-headlines-socrata-splash/">Open Data Headlines @Socrata (Splash)</a></li>
+<li id="menu-item-8879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8879"><a href="http://www.socrata.com/discover/video-case-study-chicago-webinar/">Video Case Study: Chicago Webinar</a></li>
+<li id="menu-item-8887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8887"><a href="http://www.socrata.com/video-case-study-oregon-webinar-2/">Video Case Study: Oregon Webinar</a></li>
+</ul></div></li>
+<li id="nav_menu-6" class="widget widget_nav_menu"><h3>Company</h3><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-7991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7991"><a href="http://www.socrata.com/company-info/">Overview</a></li>
+<li id="menu-item-7990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7990"><a href="http://www.socrata.com/careers/">Careers</a></li>
+<li id="menu-item-7987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7987"><a href="http://www.socrata.com/company-info/board-of-directors/">Board of Directors</a></li>
+<li id="menu-item-7988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7988"><a href="http://www.socrata.com/company-info/investors/">Investors</a></li>
+<li id="menu-item-11433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11433"><a href="http://www.socrata.com/company-info/leadership/">Leadership</a></li>
+<li id="menu-item-12518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12518"><a href="http://www.socrata.com/partners/">Partners</a></li>
+</ul></div></li>
+<li id="nav_menu-7" class="widget widget_nav_menu"><h3>Newsroom</h3><div class="menu-newsroom-container"><ul id="menu-newsroom" class="menu"><li id="menu-item-8300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8300"><a href="http://www.socrata.com/newsroom/">Newsroom</a></li>
+<li id="menu-item-8438" class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-8438"><a href="http://www.socrata.com/newsroom/press-releases/">Press Releases</a></li>
+<li id="menu-item-8439" class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-8439"><a href="http://www.socrata.com/newsroom/socrata-in-the-media/">Socrata In The Media</a></li>
+<li id="menu-item-7996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7996"><a href="http://www.socrata.com/media-kit/">Media Kit</a></li>
+</ul></div></li>
+<li id="nav_menu-8" class="widget widget_nav_menu"><h3>Otherlinks</h3><div class="menu-other-links-container"><ul id="menu-other-links" class="menu"><li id="menu-item-4806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4806"><a href="http://opendata.socrata.com">OpenData.Socrata.com</a></li>
+<li id="menu-item-7971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7971"><a href="http://support.socrata.com">Customer Support</a></li>
+<li id="menu-item-7961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7961"><a href="http://dev.socrata.com">Developers Site</a></li>
+<li id="menu-item-7992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7992"><a href="http://www.socrata.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-7993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7993"><a href="http://www.socrata.com/privacy/">Privacy</a></li>
+</ul></div></li>
+</ul>
+		</div>
+		<div class="copyright">
+			<p>Copyright &copy; <script type="text/javascript">var d = new Date()
+	document.write(d.getFullYear())</script> Socrata, Inc. All rights reserved.</p>
+		</div>		
+	</div>
+</div>
+
+</body>
+</html>
+<!-- Dynamic page generated in 1.307 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-06-12 23:19:48 -->
+
+<!-- super cache -->
