@@ -17,8 +17,8 @@ Then run the main script.
 This runs `./portals.py` to get the list of all portals from socrata.com.
 Then it runs `./run_all.sh` (See below.) for each of the portals.
 
-The different portals will be accessed in parallel, so this should only take as
-long as the largest/slowest portal.
+API limits appear to apply across all of Socrata, not just within
+data portal, so these different portals just get run in series.
 
 ## How to run (one portal)
 
