@@ -5,6 +5,7 @@ from lxml.html import fromstring
 
 # Download.
 html = fromstring(urlopen('http://www.socrata.com/customer-spotlight/').read())
+# Consider adding http://status.socrata.com/sites
 
 # Get portal urls.
 portals = [unicode(t.strip()) for t in html.xpath('//p[strong[a[img[starts-with(@class, "alignnone size-full wp-image")]]]]/text()')]
