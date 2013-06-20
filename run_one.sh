@@ -11,4 +11,3 @@ fi
 ./views.sh
 # ./rows.sh
 # ./builddb.py
-# ./upload.sh
