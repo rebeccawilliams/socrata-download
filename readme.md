@@ -62,4 +62,6 @@ When you run `./run_all.sh`, the following things happen in order.
     `datasets`. One of the columns is named `socrata.url`, so unioning it
     with databases from other portals will be easy. It is named
     `$SOCRATA_URL/features.db`.
-6. `./upload.sh` uploads all of the downloaded files to an S3 bucket.
+6. `./s3-upload.sh` uploads all of the downloaded view metadata files to
+    an S3 bucket, compressing them first.
+7. `./s3-download.sh` downloads and decompresses all of the files in the S3 bucket.

@@ -25,3 +25,15 @@ fi
     )
   done
 )
+
+# Warning
+echo The data have been uploaded.
+echo 
+echo As a side effect of this, the data directory is now
+echo in a state that the rest of the Socrata downloader
+echo tools cannot use.
+echo
+echo In order to download more data, you must run the
+echo S3 download script. It will skip the files that are
+echo already downloaded and uncompress all of the files
+echo so that the rest of the Socrata downloader tools work.
