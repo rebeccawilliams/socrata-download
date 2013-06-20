@@ -12,8 +12,14 @@ if find data/*/views|grep -v '\(\.gz\|\/views\)$' > /tmp/to_gzip; then
 fi
 
 # Upload
-s3cmd sync \
-  --skip-existing \
-  --add-header='Content-Encoding:gzip' \
-  --mime-type='application/json' \
-  data "$SOCRATA_S3_BUCKET"
+(
+  cd data
+  for portal in $(ls); do
+    cd $portal
+    s3cmd sync \
+      --skip-existing \
+      --add-header='Content-Encoding:gzip' \
+      --mime-type='application/json' \
+      views "$SOCRATA_S3_BUCKET/$portal/"
+  done
+)
