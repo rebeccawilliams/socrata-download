@@ -7,7 +7,9 @@ if test -z "$SOCRATA_S3_BUCKET"; then
 fi
 
 # Gzip
-find data/*/views|grep -v '\(\.gz\|\/views\)$'
+if find data/*/views|grep -v '\(\.gz\|\/views\)$' > /tmp/to_gzip; then
+  cat /tmp/to_gzip | xargs gzip
+fi
 
 # Upload
 s3cmd sync \
