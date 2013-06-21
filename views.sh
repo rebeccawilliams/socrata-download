@@ -23,7 +23,6 @@ for viewid in $(cat "data/$SOCRATA_URL/viewids"); do
   if grep 'ERROR 404: Not Found.' $tmp; then
     # Skip on 404, after sleeping
     sleep 1s
-    echo aaaaaaaaaa
 
   elif grep 'ERROR 429: 429' $tmp; then
     # Die on API limit, with a note to try later.
@@ -32,8 +31,8 @@ for viewid in $(cat "data/$SOCRATA_URL/viewids"); do
 
   else
     # Sleep if it worked
+    echo Downloaded "$url"
     sleep 1s
-
   fi 
 done
 echo Done downloading "$SOCRATA_URL"
