@@ -15,18 +15,25 @@ for viewid in $(cat "data/$SOCRATA_URL/viewids"); do
 
   if test -e "$DIR/${viewid}"; then
     # Skip it if we have it.
+    continue
+  fi
 
-  elif wget --no-check-certificate -O "$DIR/${viewid}" "$url" &> $tmp; then
-    # Sleep if it worked
-    sleep 1s
+  wget --no-check-certificate -O "$DIR/${viewid}" "$url" 2> $tmp || sleep 0s
 
-  elif grep 'ERROR 404: Not Found.' $tmp; then
+  if grep 'ERROR 404: Not Found.' $tmp; then
     # Skip on 404, after sleeping
     sleep 1s
+    echo aaaaaaaaaa
 
   elif grep 'ERROR 429: 429' $tmp; then
     # Die on API limit, with a note to try later.
     echo "You've hit an API limit. Try again later. Bye."
     exit 2
+
+  else
+    # Sleep if it worked
+    sleep 1s
+
   fi 
 done
+echo Done downloading "$SOCRATA_URL"

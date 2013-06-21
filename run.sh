@@ -21,6 +21,7 @@ for path in $(ls -d data/[a-z]*); do
       continue
     fi
   )
+  echo
 done
 
 ./s3-upload.sh
