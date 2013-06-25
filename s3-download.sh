@@ -17,4 +17,4 @@ else
 fi
 
 # Gunzip
-find data -name *.gz -exec gunzip --verbose {} \;
+find data -name \*.gz -exec gunzip --verbose {} \;
