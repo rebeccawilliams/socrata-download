@@ -1,19 +1,15 @@
 #!/usr/bin/env python2
-import os
+import os, json
 from urllib2 import urlopen
-from lxml.html import fromstring
 
 # Download.
-html = fromstring(urlopen('http://www.socrata.com/customer-spotlight/').read())
-# Consider adding http://status.socrata.com/sites
-
-# Get portal urls.
-portals = [unicode(t.strip()) for t in html.xpath('//p[strong[a[img[starts-with(@class, "alignnone size-full wp-image")]]]]/text()')]
+portals = json.load(urlopen('http://status.socrata.com/sites'))
 
 # Make a directory for each portal.
 for portal in portals:
+    domain = portal['description']
     try:
-        os.makedirs(os.path.join('data', portal))
+        os.makedirs(os.path.join('data', domain))
     except OSError, e:
         if e.args[0] != 17:
             raise
