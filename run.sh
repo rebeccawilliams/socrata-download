@@ -18,11 +18,7 @@ for path in $(ls -d data/[a-z]*); do
   (
     export SOCRATA_URL=$(echo "$path" | cut -d/ -f2)
     echo $SOCRATA_URL
-    if ! ./run_one.sh; then
-      echo 'I hit an API limit and am waiting two hours.'
-      sleep 2h
-      continue
-    fi
+    ./run_one.sh &
   )
   echo
 done
