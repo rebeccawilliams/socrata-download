@@ -7,8 +7,16 @@ to S3.
 
 Set the parameters S3 bucket.
 
-    SOCRATA_URLS=( data.cityofnewyork.us 
-    SOCRATA_S3_BUCKET=socrata.appgen.me
+    export SOCRATA_URLS=( data.cityofnewyork.us 
+    export SOCRATA_S3_BUCKET=socrata.appgen.me
+
+If you are using [Proxy Rack](http://www.proxyrack.com/) to get around API limits,
+set the wget proxy parameters.
+
+    # export http_proxy=
+    export https_proxy=
+    export proxy_user=
+    export proxy_password=
 
 Then run the main script.
 

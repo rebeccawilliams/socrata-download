@@ -8,7 +8,7 @@ fi
 DIR="data/$SOCRATA_URL/views"
 
 # Sleep if we aren't using a proxy
-if test -z "$http_proxy"; then
+if test -z "$https_proxy"; then
   sleep_interval=1s
 else
   sleep_interval=0s
