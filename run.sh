@@ -18,7 +18,7 @@ for path in $(ls -d data/[a-z]*); do
   (
     export SOCRATA_URL=$(echo "$path" | cut -d/ -f2)
     echo $SOCRATA_URL
-    ./run_one.sh > /tmp/$SOCRATA_URL.log &
+    ./run_one.sh >> /tmp/$SOCRATA_URL.log &
   )
   echo
 done
