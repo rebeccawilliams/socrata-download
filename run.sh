@@ -5,14 +5,16 @@ set -e
 ./portals.py
 
 # Fix bad portals.
-if test -d data/data.consumerfinance.gov; then
-  rmdir data/consumerfinance.gov
-else
-  mv data/consumerfinance.gov data/data.consumerfinance.gov
-fi
+fix() {
+  if test -d "data/$2"; then
+    rmdir "data/$1"
+  else
+    mv "data/$1" "data/$2"
+  fi
+}
 
-# Something's weird about this one.
-rm -fR data/data.act.gov.au
+fix consumerfinance.gov data.consumerfinance.gov
+fix data.act.gov.au www.data.act.gov.au
 
 # Add portals that aren't listed on the Socrata site.
 mkdir -p data/opendata.socrata.com
