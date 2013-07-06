@@ -4,8 +4,12 @@ set -e
 # Get portals from the website.
 ./portals.py
 
-# Remove bad portals.
-# rm -fR data/\{consumerfinance.gov,datakc.org,data.undp.com,ethics.gov,dati.wa.gov,metrochicagodata.com,nyc.gov,bronx.lehman.cuny.edu\}
+# Fix bad portals.
+if test -d data/data.consumerfinance.gov; then
+  rmdir data/consumerfinance.gov
+else
+  mv data/consumerfinance.gov data/data.consumerfinance.gov
+fi
 
 # Something's weird about this one.
 rm -fR data/data.act.gov.au
