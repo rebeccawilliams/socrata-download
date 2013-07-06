@@ -1,0 +1,7 @@
+If I have the same dataset from two different months,
+I can look at what new rows were added in the past month.
+
+If I have the full dataset, I can compare the column types
+to the column data. But I can actually do this with just the
+preview in the views JSON file.
+
