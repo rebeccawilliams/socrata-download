@@ -15,6 +15,7 @@ fix() {
 
 fix consumerfinance.gov data.consumerfinance.gov
 fix data.act.gov.au www.data.act.gov.au
+fix www.datakc.org data.kingcounty.gov
 
 # Add portals that aren't listed on the Socrata site.
 mkdir -p data/opendata.socrata.com
