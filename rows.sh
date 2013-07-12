@@ -11,7 +11,7 @@ mkdir -p "$DIR"
 for viewid in $(cat "data/$SOCRATA_URL/viewids"); do
   # Check for compressend and uncompressed versions of the file.
   test -e "$DIR/${viewid}.gz" || test -e "$DIR/${viewid}" ||
-    wget -O "$DIR/${viewid}" "https://$SOCRATA_URL/api/views/${viewid}/rows.csv?accessType=DOWNLOAD"
+    wget -O "$DIR/${viewid}" "http://$SOCRATA_URL/api/views/${viewid}/rows.csv?accessType=DOWNLOAD"
 
   # Handle when I thrash the server.
   test -e "$DIR/${viewid}" &&

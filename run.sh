@@ -4,11 +4,18 @@ set -e
 # Get portals from the website.
 ./portals.py
 
-# Remove bad portals.
-# rm -fR data/\{consumerfinance.gov,datakc.org,data.undp.com,ethics.gov,dati.wa.gov,metrochicagodata.com,nyc.gov,bronx.lehman.cuny.edu\}
+# Fix bad portals.
+fix() {
+  if test -d "data/$2"; then
+    rmdir "data/$1"
+  else
+    mv "data/$1" "data/$2"
+  fi
+}
 
-# Something's weird about this one.
-rm -fR data/data.act.gov.au
+fix consumerfinance.gov data.consumerfinance.gov
+fix data.act.gov.au www.data.act.gov.au
+fix www.datakc.org data.kingcounty.gov
 
 # Add portals that aren't listed on the Socrata site.
 mkdir -p data/opendata.socrata.com
@@ -18,13 +25,7 @@ for path in $(ls -d data/[a-z]*); do
   (
     export SOCRATA_URL=$(echo "$path" | cut -d/ -f2)
     echo $SOCRATA_URL
-    if ! ./run_one.sh; then
-      echo 'I hit an API limit and am waiting two hours.'
-      sleep 2h
-      continue
-    fi
+    ./run_one.sh >> /tmp/$SOCRATA_URL.log &
   )
   echo
 done
-
-./s3-upload.sh

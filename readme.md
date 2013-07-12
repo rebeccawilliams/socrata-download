@@ -13,10 +13,7 @@ Set the parameters S3 bucket.
 If you are using [Proxy Rack](http://www.proxyrack.com/) to get around API limits,
 set the wget proxy parameters.
 
-    # export http_proxy=
-    export https_proxy=
-    export proxy_user=
-    export proxy_password=
+    export http_proxy=
 
 Then run the main script.
 
