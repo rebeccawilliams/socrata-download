@@ -1,9 +1,15 @@
 #!/usr/bin/env python2
 import os, json, warnings
-from urllib2 import urlopen
+from urllib2 import urlopen, HTTPError
 
 # Download.
-portals = json.load(urlopen('http://status.socrata.com/sites'))
+try:
+    handle = urlopen('http://status.socrata.com/sites')
+except HTTPError:
+    # Use the cache if the site's being weird.
+    handle = open('sites.json')
+
+portals = json.load(handle)
 
 def is_domain(potential_url):
     return '.' in potential_url and ' ' not in potential_url
