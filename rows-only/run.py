@@ -24,6 +24,14 @@ def portal_rows(portal, output_dir = 'rows', input_dir = 'data'):
 
 import os
 
+def clear_empty():
+    'Delete empty files'
+    for portal in os.listdir('rows'):
+        for viewid in os.listdir(os.path.join('rows', portal)):
+            filename = os.path.join('rows', portal, viewid)
+            if os.path.getsize(filename) == 0:
+                os.remove(filename)
+
 def parallel():
     nprocesses = 35
     from multiprocessing import Pool
@@ -33,6 +41,8 @@ def parallel():
 def series():
     print map(portal_rows, os.listdir('data'))
 
-if 'http_proxy' not in os.environ:
-    raise UserWarning('No http_proxy is set.')
-parallel()
+if __name__ == '__main__':
+    if 'http_proxy' not in os.environ:
+        raise UserWarning('No http_proxy is set.')
+    clear_empty()
+    parallel()

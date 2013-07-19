@@ -21,3 +21,5 @@ external dataset.
       "error" : true,
       "message" : "Can only get rows for tabular datasets."
     }
+
+The body might also just be empty. I don't know what that means.
