@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 import os
+from urllib import urlretrieve
 
-from requests import get
+OUTPUT_DIR = 'rows'
+HTTP_PROXY = os.environ['http_proxy']
 
 for portal in os.listdir('data'):
     for viewid in open(os.path.join('data', portal, 'viewids')).readlines():
