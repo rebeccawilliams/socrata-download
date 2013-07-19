@@ -23,12 +23,16 @@ def portal_rows(portal, output_dir = 'rows', input_dir = 'data'):
     return (0,)
 
 import os
-if 'http_proxy' in os.environ:
-    nprocesses = 50
-    print 'An http_proxy is set, so I am running in parallel with %d processes.' % nprocesses
+
+def parallel():
+    nprocesses = 10
     from multiprocessing import Pool
     p = Pool(nprocesses)
     print p.map(portal_rows, os.listdir('data'))
-else:
-    print 'No http_proxy is set, so I am running in series.'
+
+def series():
     print map(portal_rows, os.listdir('data'))
+
+if 'http_proxy' not in os.environ:
+    raise UserWarning('No http_proxy is set.')
+parallel()
