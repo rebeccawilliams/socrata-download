@@ -19,7 +19,7 @@ def portal_rows(portal, output_dir = 'rows', input_dir = 'data'):
 
 import os
 if 'http_proxy' in os.environ:
-    nprocesses = 5
+    nprocesses = 50
     print 'An http_proxy is set, so I am running in parallel with %d processes.' % nprocesses
     from multiprocessing import Pool
     p = Pool(nprocesses)
