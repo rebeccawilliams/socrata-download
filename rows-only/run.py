@@ -25,7 +25,7 @@ def portal_rows(portal, output_dir = 'rows', input_dir = 'data'):
 import os
 
 def parallel():
-    nprocesses = 10
+    nprocesses = 35
     from multiprocessing import Pool
     p = Pool(nprocesses)
     print p.map(portal_rows, os.listdir('data'))
