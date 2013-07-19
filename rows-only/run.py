@@ -16,8 +16,11 @@ def portal_rows(portal, output_dir = 'rows', input_dir = 'data'):
         output_file = os.path.join(portal_dir, viewid)
         if not os.path.exists(output_file):
             url = 'http://%s/api/views/%s/rows.csv?accessType=DOWNLOAD' % (portal, viewid)
-            urlretrieve(url, filename = output_file)
-    return 0
+            try:
+                urlretrieve(url, filename = output_file)
+            except:
+                return (1, url)
+    return (0,)
 
 import os
 if 'http_proxy' in os.environ:
